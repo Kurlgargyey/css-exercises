@@ -1,0 +1,19 @@
+.element {
+ background-color: #f58c8c;
+ font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#second {
+color: #00f;
+font-size: 36px;
+}
+
+#third {
+ font-size: 24px;
+}
+
+#fourth {
+ background-color: #80f880;
+ font-weight: bold;
+ font-size: 24px;
+}
