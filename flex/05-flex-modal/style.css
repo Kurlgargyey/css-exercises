@@ -22,22 +22,21 @@ body {
   box-shadow: 2px 4px 16px rgba(0,0,0,.2);
 
   display: flex;
-  padding: 12px;
-  gap: 12px;
+  padding: 16px;
+  gap: 16px;
 }
 
 .header {
   font-weight: bold;
   font-size: 18px;
   margin-bottom: 8px;
-}
-
-.header-container {
-  display:flex;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
 }
 
 .text {
-  margin-bottom: 12px;
+  margin-bottom: 16px;
 }
 
 .icon {
