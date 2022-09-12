@@ -1,6 +1,23 @@
+body{
+  font-family:Arial, Helvetica, sans-serif
+}
+
 .para,
 .small-para {
+<<<<<<< HEAD
   color: hsl(0, 100%, 50%);
+=======
+  color: hsl(0, 0%, 0%);
+  font-weight: 800;
+}
+
+.small-para {
+  font-size: 14px;
+  font-weight: 800;
+}
+
+.para {
+>>>>>>> 913a07782365d1597ffb5bf29dde4c64909ebfcf
   font-size: 22px;
 }
 
@@ -14,6 +31,7 @@
   font-weight: bold;
 } 
 
+<<<<<<< HEAD
 .cancel {
   background-color: #ffc0cb;
   color: black;
@@ -25,10 +43,22 @@
 
 .text .child {
   color: red;
+=======
+.button {
+  background-color: rgb(255, 255, 255);
+  color: rgb(0, 0, 0);
+  font-size: 20px;
+}
+
+.child {
+  color: rgb(0, 0, 0);
+  font-weight: 800;
+>>>>>>> 913a07782365d1597ffb5bf29dde4c64909ebfcf
   font-size: 14px;
 }
 
 div.text {
-  color: green;
-  font-size: 28px;
+  color: rgb(0, 0, 0);
+  font-size: 22px;
+  font-weight: 100;
 }
